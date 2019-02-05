@@ -1,0 +1,9 @@
+--- 
+hi: 
+  continents: 
+    africa: अफ्रीका
+    antarctica: अंटार्कटिका
+    australia: ऑस्ट्रेलिया
+    europe: यूरोप
+    north_america: "उत्तरी अमेरिका"
+    south_america: "दक्षिण अमेरिका"

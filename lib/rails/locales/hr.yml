@@ -1,0 +1,9 @@
+--- 
+hr: 
+  continents: 
+    africa: Afrika
+    antarctica: Antarktika
+    australia: Australija
+    europe: Europa
+    north_america: "Sjeverna Amerika"
+    south_america: "Južna Amerika"

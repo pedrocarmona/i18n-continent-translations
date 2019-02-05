@@ -1,0 +1,9 @@
+--- 
+vi: 
+  continents: 
+    africa: "Châu phi"
+    antarctica: "Nam Cực"
+    australia: "Châu Úc"
+    europe: "Châu Âu"
+    north_america: "Bắc Mỹ"
+    south_america: "Nam Mỹ"

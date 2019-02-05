@@ -1,0 +1,9 @@
+--- 
+lt: 
+  continents: 
+    africa: Afrika
+    antarctica: Antarktida
+    australia: Australija
+    europe: Europa
+    north_america: "Šiaurės Amerika"
+    south_america: "Pietų Amerika"

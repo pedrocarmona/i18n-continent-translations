@@ -1,0 +1,9 @@
+--- 
+gl: 
+  continents: 
+    africa: África
+    antarctica: Antártida
+    australia: Australia
+    europe: Europa
+    north_america: "América do norte"
+    south_america: Sudamérica

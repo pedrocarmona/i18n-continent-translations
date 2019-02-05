@@ -1,0 +1,9 @@
+--- 
+ro: 
+  continents: 
+    africa: Africa
+    antarctica: Antarctica
+    australia: Australia
+    europe: Europa
+    north_america: "America de Nord"
+    south_america: "America de Sud"

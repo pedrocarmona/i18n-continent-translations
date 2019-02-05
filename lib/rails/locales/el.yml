@@ -1,0 +1,9 @@
+--- 
+el: 
+  continents: 
+    africa: Αφρική
+    antarctica: Ανταρκτική
+    australia: Αυστραλία
+    europe: Ευρώπη
+    north_america: "Βόρεια Αμερική"
+    south_america: "νότια Αμερική"

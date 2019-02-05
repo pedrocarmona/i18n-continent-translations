@@ -1,0 +1,9 @@
+--- 
+cs: 
+  continents: 
+    africa: Afrika
+    antarctica: Antarktida
+    australia: Austrálie
+    europe: Evropa
+    north_america: "Severní Amerika"
+    south_america: "Jižní Amerika"

@@ -1,11 +1,9 @@
----
-pt:
-  continents:
-    north_america: América do Norte
-    south_america: América do Sul
+--- 
+pt-PT: 
+  continents: 
     africa: África
-    australia: Oceania
+    antarctica: Antártica
+    australia: Austrália
     europe: Europa
-    antarctica: Antártida
-
-
+    north_america: "América do Norte"
+    south_america: "América do Sul"

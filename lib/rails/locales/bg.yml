@@ -1,0 +1,9 @@
+--- 
+bg: 
+  continents: 
+    africa: Африка
+    antarctica: Антарктида
+    australia: Австралия
+    europe: Европа
+    north_america: "Северна Америка"
+    south_america: "Южна Америка"

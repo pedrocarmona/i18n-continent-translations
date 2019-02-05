@@ -1,0 +1,9 @@
+--- 
+it: 
+  continents: 
+    africa: Africa
+    antarctica: Antartide
+    australia: Australia
+    europe: Europa
+    north_america: "Nord America"
+    south_america: "Sud America"
