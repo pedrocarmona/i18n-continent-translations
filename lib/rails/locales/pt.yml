@@ -1,8 +1,9 @@
---- 
-pt-PT: 
-  continents: 
+---
+pt:
+  continents:
     africa: África
     antarctica: Antártica
+    asia: Ásia
     australia: Austrália
     europe: Europa
     north_america: "América do Norte"

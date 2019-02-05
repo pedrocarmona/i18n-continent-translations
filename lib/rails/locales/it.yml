@@ -3,6 +3,7 @@ it:
   continents: 
     africa: Africa
     antarctica: Antartide
+    asia: Asia
     australia: Australia
     europe: Europa
     north_america: "Nord America"
