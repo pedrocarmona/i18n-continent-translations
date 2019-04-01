@@ -31,5 +31,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "google-api-client"
 
   spec.add_dependency('i18n', '>= 0.9.3', '< 2')
-  spec.add_runtime_dependency 'railties', '>= 5.0', '< 5.3'
+  spec.add_runtime_dependency 'railties', '>= 5.0'
 end
